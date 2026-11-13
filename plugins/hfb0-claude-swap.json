@@ -9,6 +9,7 @@
     "dependencies": ["claude-swap", "claude", "flock"],
     "compositors": ["any"],
     "distro": ["any"],
+    "i18n": true,
     "screenshot": "https://raw.githubusercontent.com/hfb0/dms-claude-swap/main/docs/screenshot.png",
     "requires_dms": ">=2.1.0"
 }
